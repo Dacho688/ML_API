@@ -2,7 +2,7 @@
 title: ML API
 emoji: 🤖
 colorFrom: blue
-colorTo: gray
+colorTo: black
 sdk: docker
 app_port: 7860
 pinned: false
